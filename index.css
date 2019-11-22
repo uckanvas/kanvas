@@ -29,3 +29,8 @@ font-family: 'Bebas Neue', cursive;
 	text-decoration: none;
 	text-transform: lowercase;
 }
+
+.home image{
+	filter: blur(10px);
+
+}
