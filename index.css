@@ -30,4 +30,14 @@ font-family: 'Bebas Neue', cursive;
 	text-transform: lowercase;
 }
 
-
+.display {
+	text-align: center;
+	font-size: 85px;
+	color: #000;
+	font-family: 'Lobster', cursive;
+	letter-spacing: 1px;
+	line-height: 1.2;
+	text-decoration: none;
+	text-transform: lowercase;
+	font-weight: 800;
+}
