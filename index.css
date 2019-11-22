@@ -21,12 +21,11 @@ font-family: 'Bebas Neue', cursive;
 .menu a{
 	text-align: center;
 	font-size: 25px;
-	margin-right: 20px;
-	margin-left: 20px;
+    margin: 20px;
 	color: #538eac;
 	font-family: 'Lobster', cursive;
 	letter-spacing: 1px;
 	line-height: 1.2;
 	text-decoration: none;
-	font-style: lowercase;
+	text-transform: lowercase;
 }
